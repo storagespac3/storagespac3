@@ -1,0 +1,3 @@
+- place to put my projects that i make (usually for fun)
+- maybe some school projects here
+- i usually code in python
